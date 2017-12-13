@@ -1,0 +1,14 @@
+type Query {
+  search(query: String!): City
+}
+
+type GPS {
+  latitude: Float
+  longitude: Float
+}
+
+type City {
+  coordinates: GPS
+  zipCode: Int
+  city: String
+}
