@@ -1,0 +1,19 @@
+{
+  "name": "nightclazz-graphql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "alex-pex <alexandre.paixao@stadline.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "graphql": "^0.11.7"
+  },
+  "devDependencies": {
+    "eslint": "^4.13.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-config-prettier": "^2.9.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-prettier": "^2.3.1",
+    "prettier": "^1.8.2"
+  }
+}
